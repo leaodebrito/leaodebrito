@@ -3,11 +3,11 @@
 ______
 
 - 🔭  Estou trabalhando com geração de formas arquitetônicas por programação.  
-      *I'm working with generation of architectural forms by programming*
+  🔭 *I'm working with generation of architectural forms by programming*
 - 🌱  Estou estudando Python e Machine Learning.  
-      *I'm studying Python and Machine Learning*
+  🌱 *I'm studying Python and Machine Learning*
 - ⚡   Fun fact: Sou Arquiteto e Urbanista e estou aprendendo programação por diversão e as vezes tento fazer aplicativos para iOS.  
-      *I'm an Architecht studyng development for fun, and sometimes I try to develop some iOS apps*
+  ⚡  *I'm an Architecht studyng development for fun, and sometimes I try to develop some iOS apps*
 _______
 
 <div>
