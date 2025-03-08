@@ -2,9 +2,13 @@
 ______
 
 🔍 Exploring the intersection of architecture and technology
+
 💡 Architect and Urban Planner passionate about innovation, researcher, and developer by curiosity.
+
 💻 Working on programmatic generation of architectural forms, exploring Python, Machine Learning, and iOS app development.
+
 🚀 Interested in computational modeling, generative design, and AI applications in the construction industry.
+
 _______
 
 <div>
@@ -18,12 +22,3 @@ _______
   <a href="https://www.linkedin.com/in/bruno-leão-msc-774254a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-_______
-<p align="center"> 
-
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/leaodebrito/count.svg" />
- </p>
-
-</p>
