@@ -1,10 +1,10 @@
-### Olá, Eu sou Bruno Leão 👋
 ### Hi there, I'm Bruno Leão 👋
 ______
 
-- 🔭  Estou trabalhando com geração de formas arquitetônicas por programação (*I'm working with generation of architectural forms by programming*)
-- 🌱  Estou estudando Python e Machine Learning.(*I'm studying Python and Machine Learning*)
-- ⚡   Fun fact: Sou Arquiteto e Urbanista e estou aprendendo programação por diversão e as vezes tento fazer aplicativos para iOS.(*I'm an Architecht studyng development for fun, and sometimes I try to develop some iOS apps*)
+🔍 Exploring the intersection of architecture and technology
+💡 Architect and Urban Planner passionate about innovation, researcher, and developer by curiosity.
+💻 Working on programmatic generation of architectural forms, exploring Python, Machine Learning, and iOS app development.
+🚀 Interested in computational modeling, generative design, and AI applications in the construction industry.
 _______
 
 <div>
