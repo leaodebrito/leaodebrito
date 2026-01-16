@@ -36,12 +36,6 @@ My work bridges **architectural research, software development, and data-driven 
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaodebrito&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
----
-
 ### 📫 Connect with me
 <div>
   <a href="https://www.instagram.com/leaodebrito_/" target="_blank">
